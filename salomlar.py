@@ -1,0 +1,1 @@
+print("salomlar bolsin bratishka")
